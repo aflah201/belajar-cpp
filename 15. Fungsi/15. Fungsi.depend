@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575238833 source:f:\2. c++ project\15. fungsi\fungsi.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
